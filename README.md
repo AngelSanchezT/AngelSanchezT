@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Angel Javier Sanchez Tenjo</h1>
+<h1 align="center">Hola 👋, Soy Angel Javier Sanchez Tenjo.</h1>
 <h3 align="center">Ingeniero de Software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angelsanchezt&label=Profile%20views&color=0e75b6&style=flat" alt="angelsanchezt" /> </p>
