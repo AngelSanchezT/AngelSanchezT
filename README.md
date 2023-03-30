@@ -7,8 +7,6 @@
 
 - 💬 Preguntame **Java, Javascript, NodeJS, Arquitecturas Modernas**
 
-- 📫 Como contactarme **ajsanchez22@gmail.com**
-
 - 📄 Conoce mis experiencias: Ingeniero de Software y Líder de técnico con más de 12 años transformando digitalmente organizaciones del sector financiero, cobranza, seguros, retail, B2B, B2C, contact center, entre otros. Experiencias en arquitectura de software modernas y orientadas a la nube con diferentes stack tecnológicos para miles de usuarios concurrentes.
 
 <h3 align="left">Conectate conmigo:</h3>
