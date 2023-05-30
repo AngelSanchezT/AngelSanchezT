@@ -3,15 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angelsanchezt&label=Profile%20views&color=0e75b6&style=flat" alt="angelsanchezt" /> </p>
 
+- 🚀 Soy un desarrollador de software con experiencia en aplicaciones empresariales en **Java, C#, y JavaScript**.
+
 - 🌱 Actualmente estoy aprendiendo **.NET, Microsoft Azure, Arquitectura de Software**
 
 - 💬 Preguntame **Java, Javascript, NodeJS, Arquitecturas Modernas**
 
 - 📄 Conoce mis experiencias: Ingeniero de Software y Líder de técnico con más de 12 años transformando digitalmente organizaciones del sector financiero, cobranza, seguros, retail, B2B, B2C, contact center, entre otros. Experiencias en arquitectura de software modernas y orientadas a la nube con diferentes stack tecnológicos para miles de usuarios concurrentes.
 
-<h3 align="left">Conectate conmigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/angelsanchezt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelsanchezt" height="30" width="40" /></a>
+
+<p align="center">
+    <a href="https://linkedin.com/in/angelsanchezt" target="blank">
+        <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="angelsanchezt" />
+    </a>
 </p>
 
 <p align="left">
