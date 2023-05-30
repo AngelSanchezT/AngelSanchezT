@@ -17,10 +17,8 @@
 
 - 📄 Conoce mis experiencias: Ingeniero de Software y Líder de técnico con más de 12 años transformando digitalmente organizaciones del sector financiero, cobranza, seguros, retail, B2B, B2C, contact center, entre otros. Experiencias en arquitectura de software modernas y orientadas a la nube con diferentes stack tecnológicos para miles de usuarios concurrentes.
 
-<p align="center">
-    <a href="https://linkedin.com/in/angelsanchezt" target="blank">
-        <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="angelsanchezt" />
-    </a>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=angelsanchezt&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
@@ -53,10 +51,6 @@
 
 </p>
 
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelsanchezt&show_icons=true&locale=en&layout=compact&theme=dark" width="350" alt="angelsanchezt" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelsanchezt&show_icons=true&locale=en&layout=compact" alt="angelsanchezt" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angelsanchezt&show_icons=true&locale=en" alt="angelsanchezt" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angelsanchezt&" alt="angelsanchezt" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angelsanchezt&&theme=dark" width="350" alt="angelsanchezt" /></p>
