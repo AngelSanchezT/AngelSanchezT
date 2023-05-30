@@ -1,6 +1,12 @@
 <h1 align="center">Hola 👋, Soy Angel Javier Sanchez Tenjo.</h1>
 <h3 align="center">Ingeniero de Software</h3>
 
+<p align="center">
+    <a href="https://linkedin.com/in/angelsanchezt" target="blank">
+        <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="angelsanchezt" />
+    </a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angelsanchezt&label=Profile%20views&color=0e75b6&style=flat" alt="angelsanchezt" /> </p>
 
 - 🚀 Soy un desarrollador de software con experiencia en aplicaciones empresariales en **Java, C#, y JavaScript**.
@@ -11,14 +17,12 @@
 
 - 📄 Conoce mis experiencias: Ingeniero de Software y Líder de técnico con más de 12 años transformando digitalmente organizaciones del sector financiero, cobranza, seguros, retail, B2B, B2C, contact center, entre otros. Experiencias en arquitectura de software modernas y orientadas a la nube con diferentes stack tecnológicos para miles de usuarios concurrentes.
 
-
 <p align="center">
     <a href="https://linkedin.com/in/angelsanchezt" target="blank">
         <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="angelsanchezt" />
     </a>
 </p>
 
-<p align="left">
 <h3 align="left">Lenguajes y Herramientas:</h3>
 
 <p align="left"> 
@@ -46,8 +50,6 @@
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /> </a>
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /> </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /> </a>
-
-
 
 </p>
 
