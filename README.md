@@ -19,7 +19,10 @@
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=angelsanchezt&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelsanchezt&show_icons=true&locale=en&layout=compact&theme=dark" width="350" alt="angelsanchezt" /></a>
 </p>
+
+<br />
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
 
@@ -51,6 +54,5 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelsanchezt&show_icons=true&locale=en&layout=compact&theme=dark" width="350" alt="angelsanchezt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angelsanchezt&&theme=dark" width="350" alt="angelsanchezt" /></p>
