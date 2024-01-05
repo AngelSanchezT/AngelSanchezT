@@ -1,6 +1,7 @@
 <h1 align="center">Hola 👋, Soy Angel Javier Sanchez Tenjo.</h1>
 <h3 align="center">Ingeniero de Software</h3>
 
+
 <p align="center">
     <a href="https://linkedin.com/in/angelsanchezt" target="blank">
         <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="angelsanchezt" />
@@ -16,6 +17,10 @@
 - 💬 Preguntame **Java, Javascript, NodeJS, Arquitecturas Modernas**
 
 - 📄 Conoce mis experiencias: Ingeniero de Software y Líder de técnico con más de 12 años transformando digitalmente organizaciones del sector financiero, cobranza, seguros, retail, B2B, B2C, contact center, entre otros. Experiencias en arquitectura de software modernas y orientadas a la nube con diferentes stack tecnológicos para miles de usuarios concurrentes.
+
+<p align="center">
+    <img align="center" src="https://www.codewars.com/users/angelsanchezt/badges/large" alt="angelsanchezt" />
+</p>
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=angelsanchezt&show_icons=true&count_private=true&theme=dark" width="350"></a>
