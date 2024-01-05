@@ -19,7 +19,9 @@
 - 📄 Conoce mis experiencias: Ingeniero de Software y Líder de técnico con más de 12 años transformando digitalmente organizaciones del sector financiero, cobranza, seguros, retail, B2B, B2C, contact center, entre otros. Experiencias en arquitectura de software modernas y orientadas a la nube con diferentes stack tecnológicos para miles de usuarios concurrentes.
 
 <p align="center">
-    <img align="center" src="https://www.codewars.com/users/angelsanchezt/badges/large" alt="angelsanchezt" />
+    <a href="https://www.codewars.com/users/angelsanchezt" target="blank">
+        <img align="center" src="https://www.codewars.com/users/angelsanchezt/badges/large" alt="angelsanchezt" />
+    </a>
 </p>
 
 <p align='center'>
